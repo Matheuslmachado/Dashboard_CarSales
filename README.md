@@ -40,7 +40,7 @@ Dashboard Executivo
 
 Um dashboard executivo capaz de transformar os dados de vendas em
 **insights acionáveis**, permitindo que gestores acompanhem a
-performance comercial e identifiquem oportunidades de crescimento.
+performance comercial, identifiquem oportunidades de crescimento e gargalos operacionais.
 
 > Projeto desenvolvido para portfólio, com foco na aplicação prática de
 > conceitos de **ETL, análise de dados, BI e tomada de decisão
@@ -68,4 +68,6 @@ performance comercial e identifiquem oportunidades de crescimento.
 ├── .gitignore
 └── README.md
 ```
+[Link para visualizar o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjQzZjNhNWYtMmViNC00Y2RmLWI5Y2EtZGQ3ZTBjYjEwNzU2IiwidCI6IjA3Y2Y3NTU4LWMzZTAtNGVjNy1iOTc3LTA5MGQwOWY5ODk4ZCJ9)
+
 > **Data de atualização do Projeto:** 16/08/2026
